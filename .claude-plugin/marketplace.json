@@ -1,0 +1,32 @@
+{
+  "name": "ditto-sales-enablement",
+  "description": "Generate a complete sales enablement kit from a single research study: competitive battlecard, objection handling guide, customer quote bank, one-pager, pitch narrative, ROI framework, and demo script. ABC quality standard, SIVA quote test, StoryBrand framework. Uses Ditto's 300K+ AI personas (92% correlation with traditional research, EY validated).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ditto (Ask Ditto Inc.)",
+    "email": "support@askditto.io"
+  },
+  "homepage": "https://askditto.io/claude-code-guide",
+  "repository": "https://github.com/Ask-Ditto/ditto-sales-enablement",
+  "license": "MIT",
+  "keywords": [
+    "sales-enablement",
+    "battlecard",
+    "objection-handling",
+    "pitch-narrative",
+    "demo-script",
+    "competitive-intelligence",
+    "quote-bank",
+    "storybrand",
+    "synthetic-personas",
+    "ditto"
+  ],
+  "category": "research",
+  "tags": [
+    "research",
+    "sales",
+    "sales-enablement",
+    "competitive-analysis",
+    "api-integration"
+  ]
+}
